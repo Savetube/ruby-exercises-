@@ -9,10 +9,14 @@ print (mylist[2]) # prints 3
 #prints out 1, 2, 3
 for x in mylist:
   print(x)
+  
+print ("\n=====\n")
 
-# below generates exemption due to non-existing index:
+# below 'print' if enabled generates exemption due to non-existing index:
 mylist = [1,2,3]
 #print (mylist[10])
+
+print ("\n=====\n")
 
 numbers = []
 strings = []
@@ -29,5 +33,4 @@ strings.append("World")
 # this code should write out the filled arrays and the second name in the names list (Eric).
 print (numbers)
 print (strings)
-print ("the second name on the names list is %s" % second_name) 
-
+print ("the second name on the names list is %s" % second_name)
