@@ -1,4 +1,5 @@
 # Subtitle: Basic String Operations
+# this is one of the exercises following the website: www.learnpython.org
 
 astring = "Hello World!"
 astring2 = 'Hello World!'

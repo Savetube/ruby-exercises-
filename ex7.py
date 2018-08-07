@@ -1,4 +1,5 @@
- # Subtitle: Conditions
+# Subtitle: CONDITIONS
+# this is one of the exercises following the website: www.learnpython.org
 
 # Expression comparison and evaluation 
 x = 2

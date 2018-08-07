@@ -1,4 +1,6 @@
-# String Formatting
+# Subtitle: String Formatting
+# this is one of the exercises following the website: www.learnpython.org
+
 # This prints out "Hello, John!"
 name = "John"
 print ("Hello, %s!" % name)

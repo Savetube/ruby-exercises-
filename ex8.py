@@ -1,4 +1,6 @@
-# Subtitle: Loops
+# Subtitle: LOOPS
+# this is one of the exercises following the website: www.learnpython.org
+
 # The "for" loop
 # iterates over a given sequence
 primes = [2,3,5,7]
